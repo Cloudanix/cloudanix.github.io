@@ -31,11 +31,13 @@
   "overrides": {
     "shell-quote": "1.9.0",
     "websocket-driver": "0.7.5",
-    "@babel/traverse": "7.23.2"
+    "@babel/traverse": "7.23.2",
+    "postcss": "8.5.23"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
     "websocket-driver": "0.7.5",
-    "@babel/traverse": "7.23.2"
+    "@babel/traverse": "7.23.2",
+    "postcss": "8.5.23"
   }
 }
