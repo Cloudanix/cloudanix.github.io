@@ -47,7 +47,8 @@
     "cross-spawn": "7.0.5",
     "braces": "3.0.3",
     "webpack-dev-middleware": "5.3.4",
-    "trim": "0.0.3"
+    "trim": "0.0.3",
+    "follow-redirects": "1.16.0"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
@@ -68,6 +69,7 @@
     "cross-spawn": "7.0.5",
     "braces": "3.0.3",
     "webpack-dev-middleware": "5.3.4",
-    "trim": "0.0.3"
+    "trim": "0.0.3",
+    "follow-redirects": "1.16.0"
   }
 }
