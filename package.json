@@ -66,7 +66,9 @@
     "joi": "17.13.6",
     "svgo": "2.8.4",
     "qs": "6.16.0",
-    "express": "4.20.0"
+    "express": "4.20.0",
+    "path-to-regexp@0.1": "0.1.13",
+    "path-to-regexp@1": "1.9.0"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
@@ -106,6 +108,8 @@
     "joi": "17.13.6",
     "svgo": "2.8.4",
     "qs": "6.16.0",
-    "express": "4.20.0"
+    "express": "4.20.0",
+    "**/express/path-to-regexp": "0.1.13",
+    "**/react-router/path-to-regexp": "1.9.0"
   }
 }
