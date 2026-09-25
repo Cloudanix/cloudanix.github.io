@@ -68,7 +68,9 @@
     "qs": "6.16.0",
     "express": "4.20.0",
     "path-to-regexp@0.1": "0.1.13",
-    "path-to-regexp@1": "1.9.0"
+    "path-to-regexp@1": "1.9.0",
+    "js-yaml@3": "3.15.2",
+    "js-yaml@4": "4.3.2"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
@@ -110,6 +112,8 @@
     "qs": "6.16.0",
     "express": "4.20.0",
     "**/express/path-to-regexp": "0.1.13",
-    "**/react-router/path-to-regexp": "1.9.0"
+    "**/react-router/path-to-regexp": "1.9.0",
+    "**/gray-matter/js-yaml": "3.15.2",
+    "js-yaml": "4.3.2"
   }
 }
