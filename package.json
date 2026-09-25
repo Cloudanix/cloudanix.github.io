@@ -56,7 +56,8 @@
     "@babel/helpers": "7.26.10",
     "prismjs": "1.30.0",
     "micromatch": "4.0.8",
-    "@babel/core": "7.29.6"
+    "@babel/core": "7.29.6",
+    "on-headers": "1.1.0"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
@@ -86,6 +87,7 @@
     "@babel/helpers": "7.26.10",
     "prismjs": "1.30.0",
     "micromatch": "4.0.8",
-    "@babel/core": "7.29.6"
+    "@babel/core": "7.29.6",
+    "on-headers": "1.1.0"
   }
 }
