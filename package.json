@@ -33,13 +33,15 @@
     "websocket-driver": "0.7.5",
     "@babel/traverse": "7.23.2",
     "postcss": "8.5.23",
-    "brace-expansion": "1.1.18"
+    "brace-expansion": "1.1.18",
+    "body-parser": "1.20.6"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
     "websocket-driver": "0.7.5",
     "@babel/traverse": "7.23.2",
     "postcss": "8.5.23",
-    "brace-expansion": "1.1.18"
+    "brace-expansion": "1.1.18",
+    "body-parser": "1.20.6"
   }
 }
