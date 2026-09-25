@@ -58,7 +58,8 @@
     "micromatch": "4.0.8",
     "@babel/core": "7.29.6",
     "on-headers": "1.1.0",
-    "cookie": "0.7.0"
+    "cookie": "0.7.0",
+    "send": "0.19.0"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
@@ -90,6 +91,7 @@
     "micromatch": "4.0.8",
     "@babel/core": "7.29.6",
     "on-headers": "1.1.0",
-    "cookie": "0.7.0"
+    "cookie": "0.7.0",
+    "send": "0.19.0"
   }
 }
