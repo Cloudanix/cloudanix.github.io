@@ -30,10 +30,12 @@
   },
   "overrides": {
     "shell-quote": "1.9.0",
-    "websocket-driver": "0.7.5"
+    "websocket-driver": "0.7.5",
+    "@babel/traverse": "7.23.2"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
-    "websocket-driver": "0.7.5"
+    "websocket-driver": "0.7.5",
+    "@babel/traverse": "7.23.2"
   }
 }
