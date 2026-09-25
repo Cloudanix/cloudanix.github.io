@@ -5283,9 +5283,9 @@ multicast-dns@^7.2.5:
     dns-packet "^5.2.2"
     thunky "^1.0.2"
 
-nanoid@^3.3.16:
+nanoid@3.3.19, nanoid@^3.3.16:
   version "3.3.19"
-  resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.19.tgz"
+  resolved "https://registry.npmjs.org/nanoid/-/nanoid-3.3.19.tgz#336d4aa4bcd4fb24d2cddede7ffeae40bec03f0a"
   integrity sha512-Y2tUNy4ouw6tq5oDSKeQYGOyhkUBhNOcGV/02KC+6kd9eDGqdZd++mjMiIDilrBYvjEnCYvVtsuHCuP+okSfug==
 
 negotiator@0.6.3:
