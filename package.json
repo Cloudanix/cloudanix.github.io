@@ -34,7 +34,8 @@
     "@babel/traverse": "7.23.2",
     "postcss": "8.5.23",
     "brace-expansion": "1.1.18",
-    "body-parser": "1.20.6"
+    "body-parser": "1.20.6",
+    "axios": "0.33.0"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
@@ -42,6 +43,7 @@
     "@babel/traverse": "7.23.2",
     "postcss": "8.5.23",
     "brace-expansion": "1.1.18",
-    "body-parser": "1.20.6"
+    "body-parser": "1.20.6",
+    "axios": "0.33.0"
   }
 }
