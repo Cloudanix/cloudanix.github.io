@@ -64,7 +64,8 @@
     "http-proxy-middleware": "2.0.10",
     "colord": "2.9.4",
     "joi": "17.13.6",
-    "svgo": "2.8.4"
+    "svgo": "2.8.4",
+    "qs": "6.16.0"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
@@ -102,6 +103,7 @@
     "http-proxy-middleware": "2.0.10",
     "colord": "2.9.4",
     "joi": "17.13.6",
-    "svgo": "2.8.4"
+    "svgo": "2.8.4",
+    "qs": "6.16.0"
   }
 }
