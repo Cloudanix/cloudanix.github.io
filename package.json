@@ -29,9 +29,11 @@
     ]
   },
   "overrides": {
-    "shell-quote": "1.9.0"
+    "shell-quote": "1.9.0",
+    "websocket-driver": "0.7.5"
   },
   "resolutions": {
-    "shell-quote": "1.9.0"
+    "shell-quote": "1.9.0",
+    "websocket-driver": "0.7.5"
   }
 }
