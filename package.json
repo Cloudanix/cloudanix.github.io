@@ -44,7 +44,8 @@
     "picomatch": "2.3.2",
     "minimatch": "3.1.4",
     "semver": "7.5.2",
-    "cross-spawn": "7.0.5"
+    "cross-spawn": "7.0.5",
+    "braces": "3.0.3"
   },
   "resolutions": {
     "shell-quote": "1.9.0",
@@ -62,6 +63,7 @@
     "picomatch": "2.3.2",
     "minimatch": "3.1.4",
     "semver": "7.5.2",
-    "cross-spawn": "7.0.5"
+    "cross-spawn": "7.0.5",
+    "braces": "3.0.3"
   }
 }
