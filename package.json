@@ -78,7 +78,9 @@
     "compression": "1.8.2",
     "proxy-addr": "2.0.8",
     "source-map-js": "1.2.2",
-    "serve-handler": "6.1.6"
+    "serve-handler": "6.1.6",
+    "package-json": "7.0.0",
+    "got": "11.8.6"
   },
   "resolutions": {
     "shell-quote": "1.10.0",
@@ -128,6 +130,8 @@
     "compression": "1.8.2",
     "proxy-addr": "2.0.8",
     "source-map-js": "1.2.2",
-    "serve-handler": "6.1.6"
+    "serve-handler": "6.1.6",
+    "package-json": "7.0.0",
+    "got": "11.8.6"
   }
 }
