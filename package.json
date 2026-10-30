@@ -80,7 +80,8 @@
     "source-map-js": "1.2.2",
     "serve-handler": "6.1.6",
     "package-json": "7.0.0",
-    "got": "11.8.6"
+    "got": "11.8.6",
+    "uuid": "11.1.1"
   },
   "resolutions": {
     "shell-quote": "1.10.0",
@@ -132,6 +133,7 @@
     "source-map-js": "1.2.2",
     "serve-handler": "6.1.6",
     "package-json": "7.0.0",
-    "got": "11.8.6"
+    "got": "11.8.6",
+    "uuid": "11.1.1"
   }
 }
